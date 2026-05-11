@@ -1,0 +1,39 @@
+Business Problem Statement
+
+A leading retail company operating through both online and offline channels wants to better understand customer shopping behavior to improve sales, customer engagement, and long-term loyalty. The company has observed changing purchasing patterns across customer demographics, product categories, seasons, and sales channels but lacks a data-driven approach to identify the key factors influencing consumer decisions.
+
+The management team wants to analyze how discounts, product reviews, payment preferences, seasonal trends, and shopping channels impact customer purchases and repeat buying behavior. By leveraging consumer shopping data, the company aims to uncover valuable insights that can optimize marketing campaigns, improve product strategies, enhance customer retention, and support smarter business decisions.
+
+This project focuses on performing end-to-end retail consumer behavior analysis using Python, SQL, and Power BI to transform raw transactional data into actionable business insights through data cleaning, analysis, visualization, and interactive dashboards.
+
+Project Deliverables
+1. Data Preparation & Modeling (Python)
+Clean and preprocess raw retail data
+Handle missing values, duplicates, and inconsistencies
+Perform exploratory data analysis and feature engineering
+Prepare structured datasets for analysis
+2. Data Analysis (SQL)
+Design and query structured retail datasets
+Analyze customer segments, sales trends, loyalty, and purchase drivers
+Extract insights on product performance, discounts, seasonal trends, and channel-wise sales
+3. Dashboard Development (Power BI)
+
+Build an interactive dashboard to visualize:
+
+Sales and revenue trends
+Customer demographics and behavior
+Product category performance
+Online vs. offline sales analysis
+Customer loyalty and repeat purchases
+4. Report & Presentation
+Summarize key findings and business insights
+Provide actionable recommendations to improve customer engagement and sales performance
+Create a professional stakeholder presentation
+5. GitHub Repository
+
+Maintain a well-structured repository containing:
+
+Python scripts
+SQL queries
+Power BI dashboard files
+Project documentation and reports
